@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Navarreteed
-- 👀 I’m interested in Formula 1 and Machine Learning
+- 👀 I’m interested in Formula 1 and Data Science
 - 🌱 I’m currently learning Data Science
 - 📫 You can reach me at eduardo.gutierreznavarrete@gmail.com
 
