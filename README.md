@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Navarreteed
-- 👀 I’m interested in Formula 1 and Data Science
-- 🌱 I’m currently learning Data Science
+- 👀 I’m interested in Formula 1, Music and Data.
+- 🌱 I’m currently a Msc in Data Science Candidate at ITAM.
 - 📫 You can reach me at eduardo.gutierreznavarrete@gmail.com
 
 <!---
