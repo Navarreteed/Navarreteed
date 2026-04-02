@@ -1,5 +1,4 @@
 - 👋 Hi, I'm Eduardo Navarrete.
-- 👀 I’m a Software Engineer with vast Data Science experience.
 - 📫 You can reach me at eduardo.gutierreznavarrete@gmail.com
 
 <!---
